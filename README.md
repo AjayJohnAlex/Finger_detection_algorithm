@@ -9,3 +9,4 @@ Concepts Used :
 
 Code for all the above concepts are added to get better clarity about the project .
 HandDetection.py contains the final code for finger detection
+Video Footage and Screenshots to show the actual functionality of the code is also added.
